@@ -1,0 +1,74 @@
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\Biometrico1.exe
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Buffers.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\Biometrico1.pdb
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\MySqlConnector.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\GriauleFingerprintLibrary.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\Biometrico1.exe.config
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Memory.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\MySqlConnector.xml
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Buffers.xml
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Memory.xml
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.Form1.resources
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.Properties.Resources.resources
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.csproj.GenerateResource.cache
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.csproj.CopyComplete
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.exe
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.pdb
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\Biometrico1.exe.manifest
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\Biometrico1.application
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.exe.manifest
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\obj\Release\Biometrico1.application
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\AForge.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\AForge.Video.dll
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\AForge.xml
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\AForge.Video.xml
+C:\Users\Ariel\source\repos\Biometrico1\Biometrico1\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\Biometrico1.exe.config
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\Biometrico1.exe.manifest
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\Biometrico1.application
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\Biometrico1.exe
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\Biometrico1.pdb
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\AForge.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\AForge.Video.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\GriauleFingerprintLibrary.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\MySqlConnector.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Buffers.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Memory.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\AForge.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\AForge.Video.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\MySqlConnector.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Buffers.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Memory.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.Form1.resources
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.Properties.Resources.resources
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.csproj.GenerateResource.cache
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.exe.manifest
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.application
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.csproj.CopyComplete
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.exe
+C:\Users\Ariel\source\repos\Biometrico1 - capHuellas\Biometrico1\obj\Release\Biometrico1.pdb

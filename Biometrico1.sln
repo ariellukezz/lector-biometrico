@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biometrico1", "Biometrico1\Biometrico1.csproj", "{C106FA56-33CB-4BEC-9B87-1D2BEE57298A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{39C9B780-2049-42CF-9CBC-0FEC0603DB22}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C106FA56-33CB-4BEC-9B87-1D2BEE57298A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C106FA56-33CB-4BEC-9B87-1D2BEE57298A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C106FA56-33CB-4BEC-9B87-1D2BEE57298A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C106FA56-33CB-4BEC-9B87-1D2BEE57298A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD1F804-CC28-4020-993D-6C6058278033}
+	EndGlobalSection
+EndGlobal
